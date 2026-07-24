@@ -1,0 +1,6 @@
+{
+  "name": "Automated Complaint Resolution System",
+  "description": "AI-powered complaint analysis, classification, priority detection, automated response generation, user tracking, and administrative dashboard management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
